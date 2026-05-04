@@ -30,7 +30,14 @@
 
 ## 💻 Tech Stack:
 
-### 🚀 Frontend
+### 🚀 Frontend Core
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### ⚡ Frontend Frameworks & UI
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,6 +69,10 @@
 
 ---
 
+💡 Primary Stack: Next.js + TypeScript + Prisma + PostgreSQL + Clerk + Stripe
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -70,6 +81,7 @@
 </p>
 
 ---
+
 
 ## 📫 Connect With Me
 - 📧 rjha20731@gmail.com
