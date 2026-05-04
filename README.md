@@ -50,6 +50,7 @@
 ### ⚙️ Backend & Auth
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![Clerk](https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge)
 
 ---
@@ -58,6 +59,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neon DB](https://img.shields.io/badge/neon-00E599?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -70,6 +72,7 @@
 ---
 
 💡 Primary Stack: Next.js + TypeScript + Prisma + PostgreSQL + Clerk + Stripe
+💡 Experience with both SQL (PostgreSQL) and NoSQL (MongoDB) databases
 
 ---
 
