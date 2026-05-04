@@ -30,10 +30,9 @@
 
 ## 🛠️ Tech Stack
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,lucid-react, shadcn,cloudinary,imagekit.io,nextjs,nodejs,express,postgres,mongodb,prisma,neon,git" />
-</p> 
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,nodejs,express,postgres,mongodb,prisma,git" />
+</p>
 
 ---
 
