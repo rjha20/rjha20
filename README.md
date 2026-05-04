@@ -28,11 +28,37 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,nodejs,express,postgres,mongodb,prisma,git" />
-</p>
+### 🚀 Frontend
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![Lucide](https://img.shields.io/badge/lucide--react-000000?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & Auth
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![Clerk](https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge)
+
+---
+
+### 🗄️ Database & ORM
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon DB](https://img.shields.io/badge/neon-00E599?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma)
+
+---
+
+### ☁️ Services & Tools
+![Stripe](https://img.shields.io/badge/stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![ImageKit](https://img.shields.io/badge/imagekit.io-FF6F00?style=for-the-badge)
+![React Toastify](https://img.shields.io/badge/react--toastify-FFDD00?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
